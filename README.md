@@ -21,4 +21,4 @@
 
 [website]: https://masoudsam.com
 [twitter]: https://twitter.com/masouds89
-[linkedin]: linkedin.com/in/masouds89
+[linkedin]: https://linkedin.com/in/masouds89
