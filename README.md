@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=masoudsam.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://masoudsam.com)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- I’m currently learning everything 🤣
+- I’m looking to collaborate with other content creators
 
 ### Connect with me:
 
